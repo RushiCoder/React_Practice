@@ -1,2 +1,2 @@
 # React_Practice
-This is made for only practice perpose.
+This is made for only practice purpose.
